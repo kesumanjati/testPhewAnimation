@@ -22,6 +22,7 @@
 		4187EDB3229067B400900E10 /* phew6.png in Resources */ = {isa = PBXBuildFile; fileRef = 4187EDAB229067B400900E10 /* phew6.png */; };
 		4189E080229137590083D15B /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4189E07F229137590083D15B /* secondViewController.swift */; };
 		4189E0822291526A0083D15B /* thirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4189E0812291526A0083D15B /* thirdViewController.swift */; };
+		41F957ED22970F7100F90895 /* soundzit.wav in Resources */ = {isa = PBXBuildFile; fileRef = 41F957EC22970F7100F90895 /* soundzit.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		4187EDAB229067B400900E10 /* phew6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = phew6.png; sourceTree = "<group>"; };
 		4189E07F229137590083D15B /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		4189E0812291526A0083D15B /* thirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thirdViewController.swift; sourceTree = "<group>"; };
+		41F957EC22970F7100F90895 /* soundzit.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = soundzit.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				4189E07F229137590083D15B /* secondViewController.swift */,
 				4189E0812291526A0083D15B /* thirdViewController.swift */,
 				4187ED962290679200900E10 /* Main.storyboard */,
+				41F957EC22970F7100F90895 /* soundzit.wav */,
 				4187ED992290679300900E10 /* Assets.xcassets */,
 				4187ED9B2290679300900E10 /* LaunchScreen.storyboard */,
 				4187ED9E2290679300900E10 /* Info.plist */,
@@ -152,6 +155,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41F957ED22970F7100F90895 /* soundzit.wav in Resources */,
 				4187EDAC229067B400900E10 /* phew3.png in Resources */,
 				4187EDAD229067B400900E10 /* phew4.png in Resources */,
 				4187EDAE229067B400900E10 /* phew1.png in Resources */,
